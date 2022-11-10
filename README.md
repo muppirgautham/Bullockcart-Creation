@@ -1,6 +1,6 @@
 # Bullockcart-Creation
 
-## Aim: To crteate an bullockcart using Autodesk Maya.
+## Aim: To create an bullockcart using Autodesk Maya.
 
 ## Procedure:
 1.Start the process by creating a rectanlge and extruding it.
